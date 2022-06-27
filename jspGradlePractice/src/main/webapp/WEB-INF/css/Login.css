@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+.form-header, .form-body, .form-footer{
+	margin-top: 10px;	
+}
+.form-header, .form-body{
+	border-bottom: 1px solid gray;
+	padding-bottom: 10px;
+}
+.form-body{
+	text-align: center;
+}
+#email{
+	margin-bottom: 10px;
+}
+.login-button{
+	width: 150px;
+	height: 30px;
+}
+.login-form{
+	max-width: 60%;
+	min-width: 350px;
+	margin: auto;
+	border: 1px solid gray;
+	padding: 10px;
+	padding-bottom: 30px;
+	border-radius: 5px;
+	text-align: center;
+}

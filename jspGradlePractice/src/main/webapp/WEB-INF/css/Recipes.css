@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.div-flex-container .div-card{
+	position: relative;
+	border: 1px solid black;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 5px;
+	width: 210px;
+	height: auto;
+}
+.form-textarea{
+	width: 250px;
+	
+}
